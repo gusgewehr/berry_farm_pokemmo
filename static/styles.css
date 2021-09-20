@@ -112,7 +112,7 @@ body{
 .nav a{
     height: 70px;  
     border-bottom: 10px solid;
-    border-image-source: linear-gradient( 0deg, #16d9ac, #178bea);
+    border-image-source: linear-gradient( 90deg, #16d9ac, #178bea);
     border-image-slice: 20;  
 }
 
@@ -121,7 +121,7 @@ body{
     border-left:2px solid;
     border-top: 2px solid;
     border-bottom: 10px solid;
-    border-image-source: linear-gradient( 0deg, #16d9ac, #178bea);
+    border-image-source: linear-gradient( 90deg, #16d9ac, #178bea);
     border-image-slice: 20;
     box-shadow: 1px 0px 10px #b4b4b4;
   
